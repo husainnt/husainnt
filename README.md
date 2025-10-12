@@ -7,7 +7,7 @@
 
 ### ⚙️ Tech Stack
 **Languages:** C / C++ · Python · Assembly · JavaScript  
-**Hardware:** AVR ATmega32 · Arduino · ESP8266 · Sensors & Actuators  
+**Hardware:** AVR ATmega32 · Arduino · ESP32 · STM32 · Sensors & Actuators    
 **Tools:** Atmel Studio · Proteus · MATLAB · Multisim · KiCad · VS Code  
 
 ---
@@ -22,7 +22,7 @@
 ---
 
 ### 🧠 Currently Exploring
-- IoT applications using ESP8266  
+- IoT applications using ESP32  
 - Advanced Data Structures and Algorithmic Optimization  
 
 ---
