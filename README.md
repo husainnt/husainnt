@@ -6,7 +6,7 @@
 ---
 
 ### ⚙️ Tech Stack
-**Languages:** C / C++ · Python · Assembly · JavaScript  
+**Languages:** C / C++ · Python · Assembly · JavaScript · MATLAB
 **Hardware:** AVR ATmega32 · Arduino · ESP32 · STM32 · Sensors & Actuators    
 **Tools:** Atmel Studio · Proteus · MATLAB · Multisim · KiCad · VS Code  
 
