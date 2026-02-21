@@ -37,6 +37,4 @@
 ![Hussain's GitHub Stats](https://github-readme-stats.vercel.app/api?username=husainnt&show_icons=true&theme=tokyonight&hide_border=true)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=husainnt&layout=compact&theme=tokyonight&hide_border=true)
 
----
 
-✨ *“Hardware teaches patience; software teaches logic — together they build innovation.”*
