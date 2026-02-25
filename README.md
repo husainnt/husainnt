@@ -61,7 +61,7 @@ HTML | CSS | NodeJS | Flask | Git
 ## 📈 GitHub & Coding Stats
 
 <p align="center">
-<img src="https://leetcard.jacoblin.cool/husainn_t?theme=dark&font=Nunito&ext=activity" />
+<img src="https://leetcard.jacoblin.cool/hussaintahir436?theme=dark&font=Nunito&ext=activity" />
 </p>
 
 <p align="center">
