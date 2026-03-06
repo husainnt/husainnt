@@ -22,10 +22,10 @@ ECE Student | Software + Embedded Systems | Building Intelligent Systems
 ## 🛠 Tech Stack
 
 **Programming:**  
-C | C++ | Python | JavaScript | MATLAB | Assembly  
+Embedded C | C++ | Python | JavaScript | MATLAB | Assembly  
 
 **Embedded & Hardware:**  
-Arduino | ESP32 | Sensors | Microcontrollers  
+Atmega32 | ESP32 | Sensors | Microcontrollers  
 
 **AI / Data Processing:**  
 PyTorch | TensorFlow | Pandas | OpenCV (Basics)
